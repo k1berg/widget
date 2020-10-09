@@ -1,0 +1,8 @@
+{
+  "name": "widget",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:k1berg/widget.git",
+  "author": "Hellen P <tarn.aler@gmail.com>",
+  "license": "MIT"
+}
